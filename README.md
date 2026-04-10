@@ -40,5 +40,26 @@
 -----------
 
 # DEMOCRATIZACIÓN DEL CREATIVE CODING
+* El software libre nace formalmente en 1983, cuando Richard Stallman anunció el inicio del Proyecto GNU.
+* La idea del proyecto: crear sistema operativo libre.
+* En 1985 publica manifiesto GNU, se funda la *free software fundation* (FSF)
 
-  
+------------------
+# Espacio de color RGB
+* R: red (0- 255)
+* G: green (0- 255)
+* B: blue (0- 255)
+
+# Espacio de clor HSV/HSB
+* H: Hue
+* S: saturation
+* B: Brightness
+
+*Setup* : configurar el entorno inicial (slo una vez)
+*draw* : crear movimientos 
+
+* Para dibujar en p5.js tenemos que entender que el canvas funciona con un sistema de coordenadas (0,0) (x,y) como un plano cartesiano, pero el punto (0,0) no se encuentra en el centro, sin que en la esquina superior izquierda.
+
+  ## Color del borde
+  * stroke: le asigna color a puntos, lineas, valor de la figura
+  * strokeWeight: le asigna el tamaño
