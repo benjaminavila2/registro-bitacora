@@ -33,9 +33,12 @@
 * 1969 Arte y cibernética organizada por Jorge Glusberg (Argentina, 1969)
 * John & James Whitney: Pineros en el trabajo con *computer graphics animation* -> Intro pelicula vertigo 1958
                                                                                 -> Utilizavan aviones para la segunda guerra mundial
-*Sketchpad: Ivan Sutherland: Padre de la computación gráfica - 1963.
+* Sketchpad: Ivan Sutherland: Padre de la computación gráfica - 1963.
 
-*1968, Douglas Engelbart: manipulación directa con mouse.
+* 1968, Douglas Engelbart: manipulación directa con mouse - ventanas.
 
-*
+-----------
+
+# DEMOCRATIZACIÓN DEL CREATIVE CODING
+
   
